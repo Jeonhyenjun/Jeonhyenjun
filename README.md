@@ -17,6 +17,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeonhyenjun&show_icons=true&locale=en" alt="jeonhyenjun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeonhyenjun&" alt="jeonhyenjun" /></p>
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <!--
 **Jeonhyenjun/Jeonhyenjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
