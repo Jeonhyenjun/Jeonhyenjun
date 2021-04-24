@@ -35,7 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonhyenjun&count_bg=%2379C83D&title_bg=%23555555&icon=cplusplus.svg&icon_color=%23FFFFFF&title=C%2B%2B&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonhyenjun&count_bg=%2379C83D&title_bg=%230D399C&icon=python.svg&icon_color=%23FFFFFF&title=python&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonhyenjun&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
